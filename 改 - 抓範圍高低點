@@ -1,5 +1,5 @@
 //@version=4
-study("教學：尋找高低點2", overlay=true)
+study("尋找高低點2", overlay=true)
 
 // 尋找高低點2：利用函式簡化程式
 // highest、lowest的使用
